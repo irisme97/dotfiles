@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mrabet.i@outlook.com
+	name = iris merabet
